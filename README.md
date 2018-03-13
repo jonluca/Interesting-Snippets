@@ -58,3 +58,21 @@ The majority of racists probably voted for Donald Trump. This doesn't mean the m
 If you are Pro-2A, you don't care about grabbed pussies. You care about keeping another Sotomayer off the Supreme Court. If you're working class and you just missed the line for healthcare subsidies, Obamacare is hitting your wallet hard. You don't care about him saying mean things about some Mexican immigrants being criminals. Those aren't political issues that will affect your life. They're just mean things being said. 
 
 Too many young Democrat voters (too many people in general) think voting is a question of feelings and feeling good about yourself at the end. It's *not*. And this is why Trump won. His voters don't *care* that he's a meaniehead. Winning the Presidential Election is about convincing the common schlub that he or she is voting in his or her own best interests. And I mean *thinking*. It doesn't matter if that isn't actually true. perception is reality.
+
+## On Vagueness
+
+From [Sorites Paradox](https://plato.stanford.edu/entries/sorites-paradox/)
+
+*For example, the concept of a heap appears to lack sharp boundaries and, as a consequence of the subsequent indeterminacy surrounding the extension of the predicate ‘is a heap’, no one grain of wheat can be identified as making the difference between being a heap and not being a heap. Given then that one grain of wheat does not make a heap, it would seem to follow that two do not, thus three do not, and so on. In the end it would appear that no amount of wheat can make a heap. We are faced with paradox since from apparently true premises by seemingly uncontroversial reasoning we arrive at an apparently false conclusion.*
+
+## On RTT Times
+
+From [u/Pro_Redditor on a thread on interesting truths](https://www.reddit.com/r/AskReddit/comments/265gil/reddit_can_you_blow_my_mind_in_one_sentence/cho2rjq/)
+
+*Yeah how the hell does my internet have lower ping than my brain?*
+
+## On HackerNews Comments
+
+From [Dan Luu's Website](https://danluu.com/hn-comments/)
+
+Too many to count, basically everything there.
