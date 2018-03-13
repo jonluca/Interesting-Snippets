@@ -38,11 +38,8 @@ Basically, it used to be that we had to overbuild the shit out of *everything* i
 There are totally a few classic planned obsolescence examples out there; but the majority of the time people are just expecting their walmart blender to last as long as a Blendtec. Most of what people feel is planned obsolescence can really be explained by the Terry Pratchett quote about boots:
 
 > The reason that the rich were so rich, Vimes reasoned, was because they managed to spend less money.
-
 > Take boots, for example. He earned thirty-eight dollars a month plus allowances. A really good pair of leather boots cost fifty dollars. But an affordable pair of boots, which were sort of OK for a season or two and then leaked like hell when the cardboard gave out, cost about ten dollars. Those were the kind of boots Vimes always bought, and wore until the soles were so thin that he could tell where he was in Ankh-Morpork on a foggy night by the feel of the cobbles.
-
 > But the thing was that good boots lasted for years and years. A man who could afford fifty dollars had a pair of boots that'd still be keeping his feet dry in ten years' time, while the poor man who could only afford cheap boots would have spent a hundred dollars on boots in the same time and would still have wet feet.
-
 > This was the Captain Samuel Vimes 'Boots' theory of socioeconomic unfairness.
 
 
@@ -63,7 +60,7 @@ Too many young Democrat voters (too many people in general) think voting is a qu
 
 From [Sorites Paradox](https://plato.stanford.edu/entries/sorites-paradox/)
 
-*For example, the concept of a heap appears to lack sharp boundaries and, as a consequence of the subsequent indeterminacy surrounding the extension of the predicate ‘is a heap’, no one grain of wheat can be identified as making the difference between being a heap and not being a heap. Given then that one grain of wheat does not make a heap, it would seem to follow that two do not, thus three do not, and so on. In the end it would appear that no amount of wheat can make a heap. We are faced with paradox since from apparently true premises by seemingly uncontroversial reasoning we arrive at an apparently false conclusion.*
+For example, the concept of a heap appears to lack sharp boundaries and, as a consequence of the subsequent indeterminacy surrounding the extension of the predicate ‘is a heap’, no one grain of wheat can be identified as making the difference between being a heap and not being a heap. Given then that one grain of wheat does not make a heap, it would seem to follow that two do not, thus three do not, and so on. In the end it would appear that no amount of wheat can make a heap. We are faced with paradox since from apparently true premises by seemingly uncontroversial reasoning we arrive at an apparently false conclusion.
 
 ## On RTT Times
 
