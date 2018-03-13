@@ -76,3 +76,13 @@ From [u/Pro_Redditor on a thread on interesting truths](https://www.reddit.com/r
 From [Dan Luu's Website](https://danluu.com/hn-comments/)
 
 Too many to count, basically everything there.
+
+## On equality, justice and social law 
+
+From [E. van den Haag, on the death penalty](http://www.jstor.org/stable/1341082)
+
+ Maldistribution between the guilty and the innocent is, by definition, unjust. But the injustice does not lie in the nature of the punishment. Because of the finality of the death penalty, the most grievous maldistribution occurs when it is imposed upon the innocent. However, the frequent allegations of discrimination and capriciousness refer to maldistribution among the guilty and not to the punishment of the innocent.
+
+ ...
+
+ Equality, in short, seems morally less important than justice. And justice is independent of distributional inequalities. The ideal of equal justice demands that justice be equally distributed, not that it be replaced by equality. Justice requires that as many of the guilty as possible be punished, regardless of whether others have avoided punishment. To let these others escape the deserved punishment does not do justice to them, or to society. But it is not unjust to those who could not escape.
