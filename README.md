@@ -56,6 +56,14 @@ If you are Pro-2A, you don't care about grabbed pussies. You care about keeping 
 
 Too many young Democrat voters (too many people in general) think voting is a question of feelings and feeling good about yourself at the end. It's *not*. And this is why Trump won. His voters don't *care* that he's a meaniehead. Winning the Presidential Election is about convincing the common schlub that he or she is voting in his or her own best interests. And I mean *thinking*. It doesn't matter if that isn't actually true. perception is reality.
 
+## On Sorting
+
+From [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1250118360/)
+
+Our email inbox typically displays the top fifty messages of potentially thousands, sorted by time of receipt. When we look for restaurants on Yelp we’re shown the top dozen or so of hundreds, sorted by proximity or by rating. A blog shows a cropped list of articles, sorted by date. The Facebook news feed, Twitter stream, and Reddit homepage all present themselves as lists, sorted by some proprietary measure. We refer to things like Google and Bing as “search engines,” but that is something of a misnomer: they’re really sort engines. What makes Google so dominant as a means of accessing the world’s information is less that it finds our text within hundreds of millions of webpages—its 1990s competitors could generally do that part well enough—but that it sorts those webpages so well, and only shows us the most relevant ten. 
+
+The truncated top of an immense, sorted list is in many ways the universal user interface.
+
 ## On Vagueness
 
 From [Sorites Paradox](https://plato.stanford.edu/entries/sorites-paradox/)
@@ -86,7 +94,7 @@ Equality, in short, seems morally less important than justice. And justice is in
 
 ## On Explore vs. Exploit
 
-From [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1250118360/ref=sr_1_1?ie=UTF8&qid=1521050611&sr=8-1&keywords=algorithms+to+live+by)
+From [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1250118360/)
 
 Thinking about children as simply being at the transitory exploration stage of a lifelong algorithm might provide some solace for parents of preschoolers. (Tom has two highly exploratory preschool-age daughters, and hopes they are following an algorithm that has minimal regret.) But it also provides new insights about the rationality of children. Gopnik points out that “if you look at the history of the way that people have thought about children, they have typically argued that children are cognitively deficient in various ways—because if you look at their exploit capacities, they look terrible. They can’t tie their shoes, they’re not good at long-term planning, they’re not good at focused attention. Those are all things that kids are really awful at.” But pressing buttons at random, being very interested in new toys, and jumping quickly from one thing to another are all things that kids are really great at. And those are exactly what they should be doing if their goal is exploration. If you’re a baby, putting every object in the house into your mouth is like studiously pulling all the handles at the casino. 
 
