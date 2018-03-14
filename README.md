@@ -74,12 +74,20 @@ From [Dan Luu's Website](https://danluu.com/hn-comments/)
 
 Too many to count, basically everything there.
 
-## On equality, justice and social law 
+## On Equality, Justice, and Social Law
 
 From [E. van den Haag, on the death penalty](http://www.jstor.org/stable/1341082)
 
- Maldistribution between the guilty and the innocent is, by definition, unjust. But the injustice does not lie in the nature of the punishment. Because of the finality of the death penalty, the most grievous maldistribution occurs when it is imposed upon the innocent. However, the frequent allegations of discrimination and capriciousness refer to maldistribution among the guilty and not to the punishment of the innocent.
+Maldistribution between the guilty and the innocent is, by definition, unjust. But the injustice does not lie in the nature of the punishment. Because of the finality of the death penalty, the most grievous maldistribution occurs when it is imposed upon the innocent. However, the frequent allegations of discrimination and capriciousness refer to maldistribution among the guilty and not to the punishment of the innocent.
 
- ...
+...
 
- Equality, in short, seems morally less important than justice. And justice is independent of distributional inequalities. The ideal of equal justice demands that justice be equally distributed, not that it be replaced by equality. Justice requires that as many of the guilty as possible be punished, regardless of whether others have avoided punishment. To let these others escape the deserved punishment does not do justice to them, or to society. But it is not unjust to those who could not escape.
+Equality, in short, seems morally less important than justice. And justice is independent of distributional inequalities. The ideal of equal justice demands that justice be equally distributed, not that it be replaced by equality. Justice requires that as many of the guilty as possible be punished, regardless of whether others have avoided punishment. To let these others escape the deserved punishment does not do justice to them, or to society. But it is not unjust to those who could not escape.
+
+## On Explore vs. Exploit
+
+From [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1250118360/ref=sr_1_1?ie=UTF8&qid=1521050611&sr=8-1&keywords=algorithms+to+live+by)
+
+Thinking about children as simply being at the transitory exploration stage of a lifelong algorithm might provide some solace for parents of preschoolers. (Tom has two highly exploratory preschool-age daughters, and hopes they are following an algorithm that has minimal regret.) But it also provides new insights about the rationality of children. Gopnik points out that “if you look at the history of the way that people have thought about children, they have typically argued that children are cognitively deficient in various ways—because if you look at their exploit capacities, they look terrible. They can’t tie their shoes, they’re not good at long-term planning, they’re not good at focused attention. Those are all things that kids are really awful at.” But pressing buttons at random, being very interested in new toys, and jumping quickly from one thing to another are all things that kids are really great at. And those are exactly what they should be doing if their goal is exploration. If you’re a baby, putting every object in the house into your mouth is like studiously pulling all the handles at the casino. 
+
+More generally, our intuitions about rationality are too often informed by exploitation rather than exploration. When we talk about decision-making, we usually focus just on the immediate payoff of a single decision—and if you treat every decision as if it were your last, then indeed only exploitation makes sense. But over a lifetime, you’re going to make a lot of decisions. And it’s actually rational to emphasize exploration—the new rather than the best, the exciting rather than the safe, the random rather than the considered—for many of those choices, particularly earlier in life.
