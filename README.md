@@ -105,3 +105,15 @@ More generally, our intuitions about rationality are too often informed by explo
 From David Hume
 
 All these suppositions are consistent and conceivable. Why should we give the preference to one, which is no more consistent or conceivable than the rest?
+
+## Anecdotes vs. Statistics
+
+From [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1250118360/)
+
+When we need to make sense of, say, national health care reform—a vast apparatus too complex to be readily understood—our political leaders typically offer us two things: cherry-picked personal anecdotes and aggregate summary statistics. The anecdotes, of course, are rich and vivid, but they’re unrepresentative. Almost any piece of legislation, no matter how enlightened or misguided, will leave someone better off and someone worse off, so carefully selected stories don’t offer any perspective on broader patterns. Aggregate statistics, on the other hand, are the reverse: comprehensive but thin. We might learn, for instance, whether average premiums fell nationwide, but not how that change works out on a more granular level: they might go down for most but, Omelas-style, leave some specific group—undergraduates, or Alaskans, or pregnant women—in dire straits. A statistic can only tell us part of the story, obscuring any underlying heterogeneity. And often we don’t even know which statistic we need.
+
+## On Certainty
+
+From John Stuart Mill
+
+There is no such thing as absolute certainty, but there is assurance sufficient for the purposes of human life. 
