@@ -12,6 +12,14 @@ and
 
 To take matters to an extreme, it might be suggested that our ultimate motivation is always entirely other-regarding. According to this far-fetched hypothesis, whenever we act for our own good, we do so not at all for our own sake, but always entirely for the sake of someone else. The important point here is that the denial that altruism exists should be regarded with as much suspicion as this contrary denial, according to which people never act ultimately for their own good. Both are dubious universal generalizations. Both have far less plausibility than the common sense assumption that people sometimes act in purely egoistic ways, sometimes in purely altruistic ways, and often in ways that mix, in varying degrees, the good of oneself and the good of others
 
+
+## On Pseudoscience
+
+From: [The Demon-Haunted World: Science as a Candle in the Dark.”](https://archive.org/details/TheDemonHauntedWorld) - really, the whole book is full of amazing excerpts. An absolute must read.
+
+“If we teach only the findings and products of science - no matter how useful and even inspiring they may be - without communicating its critical method, how can the average person possibly distinguish science from pseudoscience? Both then are presented as unsupported assertion. In Russia and China, it used to be easy. Authoritative science was what the authorities taught. The distinction between science and pseudoscience was made for you. No perplexities needed to be muddled through. But when profound political changes occurred and strictures on free thought were loosened, a host of confident or charismatic claims - especially those that told us what we wanted to hear - gained a vast following. Every notion, however improbable, became authoritative”
+
+
 ## On Perfect Secret Sharing
 
 From [Adi Shamir's 1979 Perfect Secret Sharing paper](shamir.pdf)
