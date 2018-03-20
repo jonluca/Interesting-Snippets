@@ -26,20 +26,20 @@ From [Adi Shamir's 1979 Perfect Secret Sharing paper](shamir.pdf)
 
 Some of the useful properties of this (k, n) threshold scheme (when compared to the mechanical locks and keys solutions) are:
 
- (1) The size of each piece does not exceed the size of the original data.
+(1) The size of each piece does not exceed the size of the original data.
 
- (2) When k is kept fixed, D~ pieces can be dynamically added or deleted (e.g., when executives join or leave the company) without affecting the other D i pieces. (A piece is deleted only when a leaving executive makes it completely inaccessible, even to himself.)
+(2) When k is kept fixed, D~ pieces can be dynamically added or deleted (e.g., when executives join or leave the company) without affecting the other D i pieces. (A piece is deleted only when a leaving executive makes it completely inaccessible, even to himself.)
 
 (3) It is easy to change the D i pieces without changing the original data D--all we need is a new polynomial q(x) with the same free term. A frequent change of this type can greatly enhance security since the pieces exposed by security breaches cannot be accumulated unless all of them are values of the same edition of the q(x) polynomial.
 
- (4) By using tuples of polynomial values as Di pieces, we can get a hierarchical scheme in which the number of pieces needed to determine D depends on their importance. For example, if we give the company's president three values of q(x), each vice-president two values of q(x), and each executive one value of q(x), then a (3, n) threshold scheme enables checks to be signed either by any three executives, or by any two executives one of whom is a vice-president, or by the president alone.
+(4) By using tuples of polynomial values as Di pieces, we can get a hierarchical scheme in which the number of pieces needed to determine D depends on their importance. For example, if we give the company's president three values of q(x), each vice-president two values of q(x), and each executive one value of q(x), then a (3, n) threshold scheme enables checks to be signed either by any three executives, or by any two executives one of whom is a vice-president, or by the president alone.
 
 
- ## On Planned Obsolesence
+## On Planned Obsolesence
 
- From [u/Awesomebox5000 on a thread on planned lifecycles](https://www.reddit.com/r/programming/comments/6dtze8/postmarketos_aiming_for_a_10_year_lifecycle_for/di5kfe2/)
+From [u/Awesomebox5000 on a thread on planned lifecycles](https://www.reddit.com/r/programming/comments/6dtze8/postmarketos_aiming_for_a_10_year_lifecycle_for/di5kfe2/)
 
- Planned obsolescence doesn't really exist in the way most people think it exists. Manufacturing processes have matured to the point that we can design a product where the average unit will last *at least* a certain period of time with the estimates on "at least" getting better all the time. People keep demanding products to be cheaper and cheaper so companies build less and less durability in the products. They're designed to last at least a certain period of time, not self-destruct after a certain period of time; it's actually REALLY HARD to make something purposefully fail at the exact moment you want it to without being obviously designed to fail.
+Planned obsolescence doesn't really exist in the way most people think it exists. Manufacturing processes have matured to the point that we can design a product where the average unit will last *at least* a certain period of time with the estimates on "at least" getting better all the time. People keep demanding products to be cheaper and cheaper so companies build less and less durability in the products. They're designed to last at least a certain period of time, not self-destruct after a certain period of time; it's actually REALLY HARD to make something purposefully fail at the exact moment you want it to without being obviously designed to fail.
 
 Basically, it used to be that we had to overbuild the shit out of *everything* in order to ensure that it would work **at all**; this led to a lot of products that were needlessly expensive. Take a blender for example, the first price point I could find for a household blender was from [1937 at a price of $29.75](http://www.angelfire.com/ns2/mixerhistory/). Adjusted for inflation, that's over $500 today; which also happens to be around the price point you need to get a brand new blender that will last for decades. You don't *have to* spend that much money on a blender because there are much cheaper options available that aren't designed to last as long but the cheaper blenders aren't designed to fail, they're designed to be less expensive which, necessarily, reduces the average lifespan of the product.
 
