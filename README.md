@@ -125,3 +125,12 @@ When we need to make sense of, say, national health care reform—a vast apparat
 From John Stuart Mill
 
 There is no such thing as absolute certainty, but there is assurance sufficient for the purposes of human life. 
+
+## On Information
+
+Excerpt From: James Gleick. “The Information.”
+
+For the purposes of science, information had to mean something special. Three centuries earlier, the new discipline of physics could not proceed until Isaac Newton appropriated words that were ancient and vague—force, mass, motion, and even time—and gave them new meanings. Newton made these terms into quantities, suitable for use in mathematical formulas. Until then, motion (for example) had been just as soft and inclusive a term as information. For Aristotelians, motion covered a far-flung family of phenomena: a peach ripening, a stone falling, a child growing, a body decaying. That was too rich. Most varieties of motion had to be tossed out before Newton’s laws could apply and the Scientific Revolution could succeed. In the nineteenth century, energy began to undergo a similar transformation: natural philosophers adapted a word meaning vigor or intensity. They mathematicized it, giving energy its fundamental place in the physicists’ view of nature.
+It was the same with information. A rite of purification became necessary.
+And then, when it was made simple, distilled, counted in bits, information was found to be everywhere. Shannon’s theory made a bridge between information and uncertainty; between information and entropy; and between information and chaos. It led to compact discs and fax machines, computers and cyberspace, Moore’s law and all the world’s Silicon Alleys. Information processing was born, along with information storage and information retrieval. People began to name a successor to the Iron Age and the Steam Age. “Man the food-gatherer reappears incongruously as information-gatherer,” remarked Marshall McLuhan in 1967.* He wrote this an instant too soon, in the first dawn of computation and cyberspace.
+
