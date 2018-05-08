@@ -134,3 +134,9 @@ For the purposes of science, information had to mean something special. Three ce
 It was the same with information. A rite of purification became necessary.
 And then, when it was made simple, distilled, counted in bits, information was found to be everywhere. Shannon’s theory made a bridge between information and uncertainty; between information and entropy; and between information and chaos. It led to compact discs and fax machines, computers and cyberspace, Moore’s law and all the world’s Silicon Alleys. Information processing was born, along with information storage and information retrieval. People began to name a successor to the Iron Age and the Steam Age. “Man the food-gatherer reappears incongruously as information-gatherer,” remarked Marshall McLuhan in 1967.* He wrote this an instant too soon, in the first dawn of computation and cyberspace.
 
+
+## On Timezones
+
+Thomas Browne, c. 1640
+
+... it being no ordinary or Almanack business, but a probleme Mathematical, to finde out the difference of hours in different places; nor do the wisest exactly satisfy themselves in all. For the hours of several places anticipate each other, according to their Longitudes; which are not exactly discovered of every place.
