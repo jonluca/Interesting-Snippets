@@ -128,7 +128,7 @@ There is no such thing as absolute certainty, but there is assurance sufficient 
 
 ## On Information
 
-Excerpt From: James Gleick. “The Information.”
+From [The Information](https://www.amazon.com/Information-History-Theory-Flood/dp/1400096235/ref=sr_1_1?ie=UTF8&qid=1525824002&sr=8-1&keywords=the+information)
 
 For the purposes of science, information had to mean something special. Three centuries earlier, the new discipline of physics could not proceed until Isaac Newton appropriated words that were ancient and vague—force, mass, motion, and even time—and gave them new meanings. Newton made these terms into quantities, suitable for use in mathematical formulas. Until then, motion (for example) had been just as soft and inclusive a term as information. For Aristotelians, motion covered a far-flung family of phenomena: a peach ripening, a stone falling, a child growing, a body decaying. That was too rich. Most varieties of motion had to be tossed out before Newton’s laws could apply and the Scientific Revolution could succeed. In the nineteenth century, energy began to undergo a similar transformation: natural philosophers adapted a word meaning vigor or intensity. They mathematicized it, giving energy its fundamental place in the physicists’ view of nature.
 It was the same with information. A rite of purification became necessary.
@@ -140,3 +140,10 @@ And then, when it was made simple, distilled, counted in bits, information was f
 Thomas Browne, c. 1640
 
 ... it being no ordinary or Almanack business, but a probleme Mathematical, to finde out the difference of hours in different places; nor do the wisest exactly satisfy themselves in all. For the hours of several places anticipate each other, according to their Longitudes; which are not exactly discovered of every place.
+
+
+## On Writing
+
+From James Gleick
+
+With words we begin to leave traces behind us like breadcrumbs: memories in symbols for others to follow. Ants deploy their pheromones, trails of chemical information; Theseus unwound Ariadne’s thread. Now people leave paper trails. Writing comes into being to retain information across time and across space. Before writing, communication is evanescent and local; sounds carry a few yards and fade to oblivion. The evanescence of the spoken word went without saying. So fleeting was speech that the rare phenomenon of the echo, a sound heard once and then again, seemed a sort of magic. “This miraculous rebounding of the voice, the Greeks have a pretty name for, and call it Echo,” wrote Pliny. “The spoken symbol,” as Samuel Butler observed, “perishes instantly without material trace, and if it lives at all does so only in the minds of those who heard it.” Butler was able to formulate this truth just as it was being falsified for the first time, at the end of the nineteenth century, by the arrival of the electric technologies for capturing speech. It was precisely because it was no longer completely true that it could be clearly seen. Butler completed the distinction: "The written symbol extends infinitely, as regards time and space, the range within which one mind can communicate with another; it gives the writer’s mind a life limited by the duration of ink, paper, and readers, as against that of his flesh and blood body."
