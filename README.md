@@ -150,6 +150,6 @@ With words we begin to leave traces behind us like breadcrumbs: memories in symb
 
 ## On Action
 
-Ward Just. 2004
+From Ward Just, 2004
 
 Odysseus wept when he heard the poet sing of his great deeds abroad because, once sung, they were no longer his alone. They belonged to anyone who heard the song.
