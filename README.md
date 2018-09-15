@@ -153,3 +153,21 @@ With words we begin to leave traces behind us like breadcrumbs: memories in symb
 From Ward Just, 2004
 
 Odysseus wept when he heard the poet sing of his great deeds abroad because, once sung, they were no longer his alone. They belonged to anyone who heard the song.
+
+## On Personal Success
+
+By Scott Adams, creator of Dilbert
+
+If you want an average successful life, it doesn’t take much planning. Just stay out of trouble, go to school, and apply for jobs you might like. But if you want something extraordinary, you have two paths:
+
+Become the best at one specific thing.
+Become very good (top 25%) at two or more things.
+The first strategy is difficult to the point of near impossibility. Few people will ever play in the NBA or make a platinum album. I don’t recommend anyone even try.
+
+The second strategy is fairly easy. Everyone has at least a few areas in which they could be in the top 25% with some effort. In my case, I can draw better than most people, but I’m hardly an artist. And I’m not any funnier than the average standup comedian who never makes it big, but I’m funnier than most people. The magic is that few people can draw well and write jokes. It’s the combination of the two that makes what I do so rare. And when you add in my business background, suddenly I had a topic that few cartoonists could hope to understand without living it.
+
+...Get a degree in business on top of your engineering degree, law degree, medical degree, science degree, or whatever. Suddenly you’re in charge, or maybe you’re starting your own company using your combined knowledge.
+
+Capitalism rewards things that are both rare and valuable. You make yourself rare by combining two or more “pretty goods” until no one else has your mix...
+
+It sounds like generic advice, but you’d be hard pressed to find any successful person who didn’t have about three skills in the top 25%.
