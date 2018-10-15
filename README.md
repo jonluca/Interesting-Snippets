@@ -171,3 +171,10 @@ The second strategy is fairly easy. Everyone has at least a few areas in which t
 Capitalism rewards things that are both rare and valuable. You make yourself rare by combining two or more “pretty goods” until no one else has your mix...
 
 It sounds like generic advice, but you’d be hard pressed to find any successful person who didn’t have about three skills in the top 25%.
+
+## On luck, chance and meritocracies
+
+Excerpt From: Robert H. Frank. “Success and Luck: Good Fortune and the Myth of Meritocracy.
+
+Consider a contest that is completely meritocratic in the sense of being settled on the basis of objective performance alone, and suppose that 98 percent of each contestant’s performance is accounted for by talent and effort, only 2 percent by luck. Given these weights, it’s clear that no one could win without being both highly talented and hardworking. But less obvious, perhaps, is that the winner is also likely to have been among the luckiest of all contestants. Luck matters so much in contests like these because winning requires that almost everything go right. There will inevitably be many contestants close to the top of the talent and effort scale, and at least some of them are bound to have been lucky as well. So even when luck has only a minor influence on performance, the most talented and hardworking of all contestants will usually be outdone by a rival who is almost as talented and hardworking but also considerably luckier. As we’ll see, if we simulated the outcome of this specific contest a thousand times, only a small minority of winners would have higher combined skill and effort levels than all other contestants.
+
