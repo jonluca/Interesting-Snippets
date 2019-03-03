@@ -50,11 +50,9 @@ There are totally a few classic planned obsolescence examples out there; but the
 > But the thing was that good boots lasted for years and years. A man who could afford fifty dollars had a pair of boots that'd still be keeping his feet dry in ten years' time, while the poor man who could only afford cheap boots would have spent a hundred dollars on boots in the same time and would still have wet feet.
 > This was the Captain Samuel Vimes 'Boots' theory of socioeconomic unfairness.
 
-
 ## On Modern Political Thought
 
 From [u/TheVetSarge on a thread after the 2016 Presidential Election](https://www.reddit.com/r/television/comments/5dfsau/cbs_this_morning_jon_stewart_on_presidentelect/da4jxwv/)
-
 
 In the midst of all the crying and hand-wringing about racists, people seem to have forgotten that there are people who will always vote Republican because Republicans back the things they think are important, just like there are people who will always vote Democrat because they think Democrats back the things they think are important.
 
@@ -178,3 +176,18 @@ Excerpt From: Robert H. Frank. “Success and Luck: Good Fortune and the Myth of
 
 Consider a contest that is completely meritocratic in the sense of being settled on the basis of objective performance alone, and suppose that 98 percent of each contestant’s performance is accounted for by talent and effort, only 2 percent by luck. Given these weights, it’s clear that no one could win without being both highly talented and hardworking. But less obvious, perhaps, is that the winner is also likely to have been among the luckiest of all contestants. Luck matters so much in contests like these because winning requires that almost everything go right. There will inevitably be many contestants close to the top of the talent and effort scale, and at least some of them are bound to have been lucky as well. So even when luck has only a minor influence on performance, the most talented and hardworking of all contestants will usually be outdone by a rival who is almost as talented and hardworking but also considerably luckier. As we’ll see, if we simulated the outcome of this specific contest a thousand times, only a small minority of winners would have higher combined skill and effort levels than all other contestants.
 
+## On status as a service
+
+This [whole article is worth a read](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service). 
+
+Why does proof of work matter for a social network? If people want to maximize social capital, why not make that as easy as possible?
+
+As with cryptocurrency, if it were so easy, it wouldn't be worth anything. Value is tied to scarcity, and scarcity on social networks derives from proof of work. Status isn't worth much if there's no skill and effort required to mine it. It's not that a social network that makes it easy for lots of users to perform well can't be a useful one, but competition for relative status still motivates humans. Recall our first tenet: humans are status-seeking monkeys. Status is a relative ladder. By definition, if everyone can achieve a certain type of status, it’s no status at all, it’s a participation trophy.
+
+In the annals of tech, and perhaps the world, the event that created the greatest social capital boom in history was the launch of Facebook's News Feed.
+
+Before News Feed, if you were on, say MySpace, or even on a Facebook before News Feed launched, you had to browse around to find all the activity in your network. Only a demographic of a particular age will recall having to click from one profile to another on MySpace while stalking one’s friends. It almost seems comical in hindsight, that we'd impose such a heavy UI burden on social media users. Can you imagine if, to see all the new photos posted in your Instagram network, you had to click through each profile one by one to see if they’d posted any new photos? I feel like my parents talking about how they had to walk miles to grade school through winter snow wearing moccasins of tree bark when I complain about the undue burden of social media browsing before the News Feed, but it truly was a monumental pain in the ass.
+
+By merging all updates from all the accounts you followed into a single continuous surface and having that serve as the default screen, Facebook News Feed simultaneously increased the efficiency of distribution of new posts and pitted all such posts against each other in what was effectively a single giant attention arena, complete with live updating scoreboards on each post. It was as if the panopticon inverted itself overnight, as if a giant spotlight turned on and suddenly all of us performing on Facebook for approval realized we were all in the same auditorium, on one large, connected infinite stage, singing karaoke to the same audience at the same time.
+
+It's difficult to overstate what a momentous sea change it was for hundreds of millions, and eventually billions, of humans who had grown up competing for status in small tribes, to suddenly be dropped into a talent show competing against EVERY PERSON THEY HAD EVER MET.
