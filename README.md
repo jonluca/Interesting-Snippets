@@ -239,3 +239,39 @@ From [The Attention Merchanges](https://www.amazon.com/Attention-Merchants-Scram
 What [Walter] Lippmann took from the war - as he explained in his 1922 classic *Public Opinion* - was the gap between the true complexity of the world and the narratives the public uses to understand it - the rough "stereotypes" (a word he coined in his book). When it came to the war, he believed that the "consent" of the governed had been, in his phrase, "manufactured". Hence, as he wrote, 'It is no longer possible... To believe in the original dogma of democracy; that the knowledge needed for the management of human affairs comes up spontaneously from the human heart. Where we act on that theory we expose ourselves to self deception, and to forms of persuasion that we cannot verify.'
 
 Any communication, Lippmann came to see, is potentially propagandistic, in the sense of propagating a view. For it presents on set of facts, or one perspective, fostering or weakening some "stereotype" held by the mind. It is fair to say, then, that any and all information that one consumes - pays attention to - will have some influence, even if just forcing a reaction. That idea, in turn, has a very radical implication, for it suggests that sometimes we overestimate our own capacity for truly independent thought. In most areas of life, we necessarily rely on others for the presentation of facts and ultimately choose between manufactured alternatives, whether it is our evaluation of a product or a political proposition. And if that is true, in the battle for our attention, there is a particular importance in who gets there first or most often. **The only communications truly without influence are those that one learns to ignore or never hears at all;** *(emphasis mine)* this is why Jacques ellul argued that it is only the disconnected - rural dwellers or the urban poor - who are truly immune to propaganda, while intellectuals, who read everything, insist on having opinions, and think themselves immune to propaganda are, in fact, easy to manipulate.
+
+## On informational unity and trust
+
+From [What the hell is going on](https://www.perell.com/blog/what-the-hell-is-going-on)
+
+The Broadcast era was shaped by high barriers to entry, which centralized the entire media industry. At the peak of the Broadcast Era in the 1960s, fewer than 25 companies monopolized the information cables of radio, television, books, magazines, and music.
+
+There were four television networks, five book publishing houses, five record companies, and seven motion picture studios that controlled most of what America consumed. Powerful and authoritative, these media conglomerates shaped the hearts and minds of millions of Americans. They shaped narratives and controlled ideologies. Information flowed in one direction, from producer to consumer. 
+
+No individual illustrates the media’s all-encompassing influence better than Walter Cronkite. “The Most Trusted Man in America” served as an anchorman for the CBS Evening News for 19 years. Cronkite’s nickname was rooted in fact. According to The Quayle Poll, a survey which measured trust in public figures, Cronkite sat at the top of the list and was the only newsman to appear on it. Everybody else on the list of trusted people was a politician. Yes, you read that right. Times have changed.
+
+Image 6. Walter Cronkite: The Most Trusted Man in America.  Source
+Image 6. Walter Cronkite: The Most Trusted Man in America. Source
+
+Sitting at the nexus of American television, Cronkite covered every NASA space shot, from the early Mercury launches, to the Apollo 8’s jaw-dropping, eye-watering orbit around the dark side of the Moon; he covered every major national event from the elation of America’s bicentennial celebration to the despair of the Kennedy assassination. When Cronkite spoke, America listened. In 1968, Cronkite traveled to Southeast Asia, where he barely escaped from Saigon alive, to interview generals and G.Is, and see the Vietnam War with his own eyes.
+
+In 1965, Americans consented to the Vietnam War. An October 1965 poll showed that 64 percent of Americans approved of the involvement in Vietnam. Spurred by Cronkite, the tenor of American opinions reversed. And by January 1969, 52 percent thought the Vietnam War was a mistake.
+
+How did American opinions change so fast? 
+
+In his 1968 “Report from Vietnam,” a CBS news special, Cronkite didn’t just report the facts. With words that would alter the course of a nation, he criticized the war and described it as a stalemate. 
+
+Image 7: President Lyndon Johnson, watching live at the White House.  Source
+Image 7: President Lyndon Johnson, watching live at the White House. Source
+
+Back on the American mainland, chomping at his nails with nervous trepidation, President Lyndon B. Johnson watched Cronkite’s broadcast. 
+
+His hair greying by the second, the President stooped towards the television, as his back slouched like the fallen soldiers before his eyes. LBJ sensed a shifting tide. Heart pumping, legs bouncing, eyes glued to Cronkite’s live report, President Johnson said to his press secretary: “If I’ve lost Cronkite, I’ve lost Middle America.” Everything changed. One man. One night. One report. In a centralized media environment, that’s all it took to sway American consciousness and alter the course of an international war. 
+
+In typical fashion, Walter Cronkite concluded his CBS Evening News Broadcasts with his famous closing words: “And that’s the way it is." Speaking with the authority of God, Cronkite’s words laid the ground-truth narrative from which all other discussion followed. A little more than a month after Cronkite’s broadcast, on Sunday, Marsh 31st, Johnson announced he would not seek another term as President. 
+
+...
+
+Like a coxswain yelling to his team of obedient rowers, leaders controlled the dissemination of information and determined the movement of the entire group. Even as global population skyrocketed from 1.6 billion in 1900 to 6 billion in 2000, media driven cohesion kept the group together. Millions of people moved in near-magical synchronicity. Stroke! Stroke! Stroke! 
+
+Even if it was distorted, the masses were united by a shared reality. As long as people rowed at the same speed, society thrived. This strategy of simplifying information flows and ignoring the many shades of complexity with black and white interpretations of the news was extremely successful. So successful, in fact, that in the 20th century,  America led the greatest wealth creation boom in human history. We replaced horses with cars, steam with oil, shacks with skyscrapers, trails with highways, and candles with electricity. For the most part, it was a massive success.
