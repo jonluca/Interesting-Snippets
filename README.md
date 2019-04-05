@@ -250,9 +250,6 @@ There were four television networks, five book publishing houses, five record co
 
 No individual illustrates the media’s all-encompassing influence better than Walter Cronkite. “The Most Trusted Man in America” served as an anchorman for the CBS Evening News for 19 years. Cronkite’s nickname was rooted in fact. According to The Quayle Poll, a survey which measured trust in public figures, Cronkite sat at the top of the list and was the only newsman to appear on it. Everybody else on the list of trusted people was a politician. Yes, you read that right. Times have changed.
 
-Image 6. Walter Cronkite: The Most Trusted Man in America.  Source
-Image 6. Walter Cronkite: The Most Trusted Man in America. Source
-
 Sitting at the nexus of American television, Cronkite covered every NASA space shot, from the early Mercury launches, to the Apollo 8’s jaw-dropping, eye-watering orbit around the dark side of the Moon; he covered every major national event from the elation of America’s bicentennial celebration to the despair of the Kennedy assassination. When Cronkite spoke, America listened. In 1968, Cronkite traveled to Southeast Asia, where he barely escaped from Saigon alive, to interview generals and G.Is, and see the Vietnam War with his own eyes.
 
 In 1965, Americans consented to the Vietnam War. An October 1965 poll showed that 64 percent of Americans approved of the involvement in Vietnam. Spurred by Cronkite, the tenor of American opinions reversed. And by January 1969, 52 percent thought the Vietnam War was a mistake.
@@ -260,9 +257,6 @@ In 1965, Americans consented to the Vietnam War. An October 1965 poll showed tha
 How did American opinions change so fast? 
 
 In his 1968 “Report from Vietnam,” a CBS news special, Cronkite didn’t just report the facts. With words that would alter the course of a nation, he criticized the war and described it as a stalemate. 
-
-Image 7: President Lyndon Johnson, watching live at the White House.  Source
-Image 7: President Lyndon Johnson, watching live at the White House. Source
 
 Back on the American mainland, chomping at his nails with nervous trepidation, President Lyndon B. Johnson watched Cronkite’s broadcast. 
 
@@ -280,4 +274,4 @@ Even if it was distorted, the masses were united by a shared reality. As long as
 
 From ["Optimize what?"](https://communemag.com/optimize-what/), Commune Mag.
 
-"It is by now common sense that technical education gives rise to techno-solutionism—that a curriculum expounding the primacy of code and symbolic manipulations begets graduates who proceed to tackle every social problem with software and algorithms. While true, this misses the mark about what the engineering academy fundamentally teaches. The students and instructor in the ethics course were discussing a matter of politics and policy as if it were a technical problem. The issue, then, lay in their conception of the entire exercise: they reflexively committed to saving an unworkable representative democracy, and consigned themselves to inventing a clever mechanism to encourage desirable election outcomes. **Techno-solutionism is the very soul of the neoliberal policy designer, fetishistically dedicated to the craft of incentive alignment and (when necessary) benevolent regulation.** (emphasis mine) Such a standpoint is the effective outcome of the contemporary computational culture and its formulation as curriculum."
+It is by now common sense that technical education gives rise to techno-solutionism—that a curriculum expounding the primacy of code and symbolic manipulations begets graduates who proceed to tackle every social problem with software and algorithms. While true, this misses the mark about what the engineering academy fundamentally teaches. The students and instructor in the ethics course were discussing a matter of politics and policy as if it were a technical problem. The issue, then, lay in their conception of the entire exercise: they reflexively committed to saving an unworkable representative democracy, and consigned themselves to inventing a clever mechanism to encourage desirable election outcomes. **Techno-solutionism is the very soul of the neoliberal policy designer, fetishistically dedicated to the craft of incentive alignment and (when necessary) benevolent regulation.** (emphasis mine) Such a standpoint is the effective outcome of the contemporary computational culture and its formulation as curriculum.
