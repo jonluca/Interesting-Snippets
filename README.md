@@ -275,3 +275,15 @@ In typical fashion, Walter Cronkite concluded his CBS Evening News Broadcasts wi
 Like a coxswain yelling to his team of obedient rowers, leaders controlled the dissemination of information and determined the movement of the entire group. Even as global population skyrocketed from 1.6 billion in 1900 to 6 billion in 2000, media driven cohesion kept the group together. Millions of people moved in near-magical synchronicity. Stroke! Stroke! Stroke! 
 
 Even if it was distorted, the masses were united by a shared reality. As long as people rowed at the same speed, society thrived. This strategy of simplifying information flows and ignoring the many shades of complexity with black and white interpretations of the news was extremely successful. So successful, in fact, that in the 20th century,  America led the greatest wealth creation boom in human history. We replaced horses with cars, steam with oil, shacks with skyscrapers, trails with highways, and candles with electricity. For the most part, it was a massive success.
+
+## On beauty
+
+From [A Natural History of Beauty](https://meltingasphalt.com/a-natural-history-of-beauty/)
+
+Dandelion head: single or multiplayer beauty?
+
+A: neither. The fact that we find this part of a dandelion beautiful is largely a coincidence — a spandrel. Certainly the dandelion head didn’t evolve for us: it’s a device for scattering seeds on the wind, not a lure for us (or any animal) to engage with it. Nor, I think, did we evolve any special eyes for the dandelion. Instead, dandelions give off perceptual cues (like symmetry and repetition of form) that happen to coincide with strategies used by bona fide Beauty players for which we may have coevolved an appreciation.
+
+Note that this shouldn’t in any way tarnish our appreciation of the dandelion. Whatever the underlying cause, it still tickles the beauty centers in our brains. But insofar as we’re calling attention to the game mechanics that underlie beauty, it must be noted that there’s no coupling between our desire circuits and the dandelion form. Neither is chasing the other.
+
+In fact, the same can be said for our relationship to flowers more generally. Flowers are playing multiplayer beauty with pollinators, clearly, but why they happen to appeal to us is a fascinating open question.
