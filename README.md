@@ -287,3 +287,33 @@ A: neither. The fact that we find this part of a dandelion beautiful is largely 
 Note that this shouldn’t in any way tarnish our appreciation of the dandelion. Whatever the underlying cause, it still tickles the beauty centers in our brains. But insofar as we’re calling attention to the game mechanics that underlie beauty, it must be noted that there’s no coupling between our desire circuits and the dandelion form. Neither is chasing the other.
 
 In fact, the same can be said for our relationship to flowers more generally. Flowers are playing multiplayer beauty with pollinators, clearly, but why they happen to appeal to us is a fascinating open question.
+
+...
+
+What about sexual selection? Is it driven by Independent or Correlated Desire?
+
+This turns out to be quite the contentious issue, and the literature is split more or less down the middle.
+
+To illustrate the two camps, let’s take the concrete question of why peahens (female Desire players) are attracted to peacocks (male Beauty players):
+
+
+
+One story goes like this:
+
+A peacock’s tail serves as an honest signal of his genetic fitness and therefore his quality as a mate. In order to grow something so big and bright and highly-ordered, the peacock must be a hearty specimen with good genes. And thus the benefit to the peahen is fairly straightforward: by choosing a beautiful mate, she’ll tend to have healthier, heartier offspring — who will, in turn, leave her more grandchildren.
+
+In this story, peahens are playing a game of Independent Desire. Each gets to choose the mate she considers the healthiest (i.e., most beautiful), without regard to what her peers are doing.
+
+The other story goes like this:
+
+A peacock’s tail is not an honest signal of his fitness. Whatever heartiness is required to produce the tail is cancelled out by the hassle of lugging it around — so males with small, drab tails are just as good at surviving as males with big, bright ones. Instead, a peahen who desires flashy tails is rewarded because other peahens also desire those tails — and therefore the sons that she makes with her beautiful mate will tend to be desired when it’s their turn to reproduce.
+
+In evolutionary biology, this is called runaway sexual selection. And if it sounds circular, well, that’s because it is. In runaway selection, the initial female desire is entirely arbitrary, but it gets fixed within a population simply because everyone else is doing it. Think of it as a self-reinforcing popularity loop. There may be no reason for the initial popularity, but once bright tails become popular, they can remain popular indefinitely (because any female who mates with an ugly/​unpopular mate will have ugly/​unpopular sons). This is a game of Correlated Desire.
+
+So then, in the case of peafowl, which is it? Did the peacock’s tail evolve in response to Independent Desire (honest signaling) or Correlated Desire (runaway selection)?
+
+At the risk of being a wet blanket, I suspect it’s a bit of both. So instead of trying to adjudicate, I’d like to make some general remarks about how to determine which type of game is being played, Independent or Correlated Desire.
+
+On the Desire side, games of Correlated Desire reward herdthink. In sexual selection, we see this as mate choice copying, where females watch other females to see which males they choose, then copy the most popular choices.⁵ In the human realm, herdthink shows up as mimetic desire, where people want things largely because other people want them as well.⁶
+
+But what about the Beauty side? Do the forms of beauty that evolve in the two types of games differ in systematic ways? Perhaps, although I don’t know how strong the effect is. In games of Independent Desire, beauty solves a concrete problem: how to induce a Desire player into a relationship with a Beauty player. And thus there are constraints on the forms that such beauty can take. For example, a flower has to be bright and stand out from the background in order for pollinators to see it from afar. However, in games of Correlated Desire, the objects desired by the herd can take on more arbitrary forms, resulting in a kind of hollow or degenerate beauty — things that are desired only because everyone else desires them (or is thought to desire them), rather than for their intrinsic qualities. (See for example much of contemporary art and architecture.) In these cases, beauty can persist because of the network effect (self-reinforcing popularity), but there’s nevertheless something fragile about it. Biology nerds may recognize this as the lek paradox, while economists will see some of the problems with fiat currencies (e.g., that governments often have to prop them up by artificial means). In both domains, the desire will be more stable if the object in question has even a touch of intrinsic value: gene quality in the case of sexually-selected ornaments; rare metals in the case of money.
