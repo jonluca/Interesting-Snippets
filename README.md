@@ -250,9 +250,6 @@ There were four television networks, five book publishing houses, five record co
 
 No individual illustrates the media’s all-encompassing influence better than Walter Cronkite. “The Most Trusted Man in America” served as an anchorman for the CBS Evening News for 19 years. Cronkite’s nickname was rooted in fact. According to The Quayle Poll, a survey which measured trust in public figures, Cronkite sat at the top of the list and was the only newsman to appear on it. Everybody else on the list of trusted people was a politician. Yes, you read that right. Times have changed.
 
-Image 6. Walter Cronkite: The Most Trusted Man in America.  Source
-Image 6. Walter Cronkite: The Most Trusted Man in America. Source
-
 Sitting at the nexus of American television, Cronkite covered every NASA space shot, from the early Mercury launches, to the Apollo 8’s jaw-dropping, eye-watering orbit around the dark side of the Moon; he covered every major national event from the elation of America’s bicentennial celebration to the despair of the Kennedy assassination. When Cronkite spoke, America listened. In 1968, Cronkite traveled to Southeast Asia, where he barely escaped from Saigon alive, to interview generals and G.Is, and see the Vietnam War with his own eyes.
 
 In 1965, Americans consented to the Vietnam War. An October 1965 poll showed that 64 percent of Americans approved of the involvement in Vietnam. Spurred by Cronkite, the tenor of American opinions reversed. And by January 1969, 52 percent thought the Vietnam War was a mistake.
@@ -260,9 +257,6 @@ In 1965, Americans consented to the Vietnam War. An October 1965 poll showed tha
 How did American opinions change so fast? 
 
 In his 1968 “Report from Vietnam,” a CBS news special, Cronkite didn’t just report the facts. With words that would alter the course of a nation, he criticized the war and described it as a stalemate. 
-
-Image 7: President Lyndon Johnson, watching live at the White House.  Source
-Image 7: President Lyndon Johnson, watching live at the White House. Source
 
 Back on the American mainland, chomping at his nails with nervous trepidation, President Lyndon B. Johnson watched Cronkite’s broadcast. 
 
@@ -276,6 +270,17 @@ Like a coxswain yelling to his team of obedient rowers, leaders controlled the d
 
 Even if it was distorted, the masses were united by a shared reality. As long as people rowed at the same speed, society thrived. This strategy of simplifying information flows and ignoring the many shades of complexity with black and white interpretations of the news was extremely successful. So successful, in fact, that in the 20th century,  America led the greatest wealth creation boom in human history. We replaced horses with cars, steam with oil, shacks with skyscrapers, trails with highways, and candles with electricity. For the most part, it was a massive success.
 
+## On optimization and modern technological approaches
+
+From ["Optimize what?"](https://communemag.com/optimize-what/), Commune Mag.
+
+It is by now common sense that technical education gives rise to techno-solutionism—that a curriculum expounding the primacy of code and symbolic manipulations begets graduates who proceed to tackle every social problem with software and algorithms. While true, this misses the mark about what the engineering academy fundamentally teaches. The students and instructor in the ethics course were discussing a matter of politics and policy as if it were a technical problem. The issue, then, lay in their conception of the entire exercise: they reflexively committed to saving an unworkable representative democracy, and consigned themselves to inventing a clever mechanism to encourage desirable election outcomes. **Techno-solutionism is the very soul of the neoliberal policy designer, fetishistically dedicated to the craft of incentive alignment and (when necessary) benevolent regulation.** (emphasis mine) Such a standpoint is the effective outcome of the contemporary computational culture and its formulation as curriculum.
+
+*. . .*
+
+Boyd teaches this course once a year, and typically in the first lecture, he declares: “Everything is an optimization problem.” The claim reeks of techno-utilitarian naïveté, with its suggestion that every object can be modeled as a bunch of numbers, every human desire expressed in a utility function, every problem resolvable using the more or less crude calculation devices in our pockets. Yet for the four hundred students enrolled in the winter 2019 offering of this course—mostly PhD and Master’s students in computer science, electrical engineering, and applied mathematics—these assumptions underpin everything they have learned for the better part of a decade. For them, the statement is not just true, it’s banal.
+
+
 ## On beauty
 
 From [A Natural History of Beauty](https://meltingasphalt.com/a-natural-history-of-beauty/)
@@ -288,15 +293,13 @@ Note that this shouldn’t in any way tarnish our appreciation of the dandelion.
 
 In fact, the same can be said for our relationship to flowers more generally. Flowers are playing multiplayer beauty with pollinators, clearly, but why they happen to appeal to us is a fascinating open question.
 
-...
+*...*
 
 What about sexual selection? Is it driven by Independent or Correlated Desire?
 
 This turns out to be quite the contentious issue, and the literature is split more or less down the middle.
 
 To illustrate the two camps, let’s take the concrete question of why peahens (female Desire players) are attracted to peacocks (male Beauty players):
-
-
 
 One story goes like this:
 
