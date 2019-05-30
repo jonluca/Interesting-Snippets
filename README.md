@@ -330,3 +330,29 @@ From [Flash Boys](https://www.amazon.com/Flash-Boys-Wall-Street-Revolt/dp/039335
 *...*
 
 Technology had collided with Wall Street in a peculiar way. It had been used, as it should have been used, to increase efficiency. But it had also been used to introduce a peculiar sort of market inefficiency. This new inefficiency was not like the inefficiencies that financial markets can easily correct. After a big buyer enters the market and drives up the price of Brent crude oil, for example, it’s healthy and good when speculators jump in and drive up the price of North Texas crude, too. It’s healthy and good when traders see the relationship between the price of crude oil and the price of oil company stocks, and drive these stocks higher. It’s even healthy and good when some clever high-frequency trader divines a necessary statistical relationship between the share prices of Chevron and Exxon, and responds when it gets out of whack. It was neither healthy nor good when public stock exchanges introduced order types and speed advantages that high-frequency traders could use to exploit everyone else. This sort of inefficiency didn’t vanish the moment it was spotted and acted upon. It was like a broken slot machine in the casino that pays off every time. It would keep paying off until someone said something about it; but no one who played the slot machine had any interest in pointing out that it was broken.
+
+## On linguistic ambiguities, superposition of definitions, and what "is" is
+
+From [Wordy Weapons of Is-Ought Alloy](https://everythingstudies.com/2018/02/12/wordy-weapons-of-is-ought-alloy/)
+
+To agree that a word accurately describes a thing is to agree that a whole set of attitudes and associated actions should be applied to it. What is and what isn’t “theft”, “hate speech”, “torture”, “terrorism” or “eugenics” is one of substance, sure, but perhaps more importantly one of consequences. If accused of a crime there may or may not be something bad you have in fact done, but in the end it is the label that sticks — guilty or not guilty — that determines what happens to you. Other labels come with less stark consequences, but with consequences they come.
+
+The lyrics to Wonderful performed by the “wonderful” Wizard of Oz in the musical Wicked is a wonderfully (sic) cute illustration of the power of labels:
+
+A man’s called a traitor or liberator.
+A rich man’s a thief, or philanthropist.
+Is one a crusader,
+or ruthless invader?
+It’s all in which label
+is able,
+to persist.
+There are precious few at ease
+with moral ambiguities,
+so we act as though they don’t exist.
+They call me wonderful, so I am wonderful.
+In fact it’s so much who I am, it’s part of my name,
+and with my help, you can be the same.
+
+(Couldn’t resist that, I’m a sucker for clever rhyming.)
+
+Labels sort individual cases into predefined buckets for easy parsing and propagation. This is how minds work. This is efficient. This is a good thing. A necessary thing. We save effort when we think and we save bandwidth when we communicate by using preset concepts instead of preserving full complexity and nuance. We have not the time, not the inclination, and not the processing power to communicate using anything more than a caricature of reality.
