@@ -356,3 +356,9 @@ and with my help, you can be the same.
 (Couldn’t resist that, I’m a sucker for clever rhyming.)
 
 Labels sort individual cases into predefined buckets for easy parsing and propagation. This is how minds work. This is efficient. This is a good thing. A necessary thing. We save effort when we think and we save bandwidth when we communicate by using preset concepts instead of preserving full complexity and nuance. We have not the time, not the inclination, and not the processing power to communicate using anything more than a caricature of reality.
+
+Given all this, of course we’d like to control what labels are in use and what connotations and associated actions they have. We’d be stupid not to try.
+
+Arguing semantics are often derided, but it shouldn’t be. Telling someone not to argue semantics is to imply that they should accept whatever vocabulary is given to them, i.e. accept to have the terms of debate dictated to them. That’s often tantamount to begging the question, since a lot of public discourse is dedicated to shaping the meaning of labels and getting them to stick to certain things (and to resisting and disrupting your enemies’ attempts to do this). That’s PR. That’s rhetoric. But not traditonal, “focused” rhetoric where a man in a toga tries to convince the senate to launch an invasion. This “unfocused rhetoric” isn’t about some specific decision, it’s about influencing the background memetic environment to be more favourable to your interests.
+
+In other words it’s not pure “ought” as in “we should do this”, because it gets elements of “is” when it tells us to adopt a particular model of reality and its associated vocabulary.
