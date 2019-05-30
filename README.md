@@ -164,7 +164,9 @@ The first strategy is difficult to the point of near impossibility. Few people w
 
 The second strategy is fairly easy. Everyone has at least a few areas in which they could be in the top 25% with some effort. In my case, I can draw better than most people, but I’m hardly an artist. And I’m not any funnier than the average standup comedian who never makes it big, but I’m funnier than most people. The magic is that few people can draw well and write jokes. It’s the combination of the two that makes what I do so rare. And when you add in my business background, suddenly I had a topic that few cartoonists could hope to understand without living it.
 
-...Get a degree in business on top of your engineering degree, law degree, medical degree, science degree, or whatever. Suddenly you’re in charge, or maybe you’re starting your own company using your combined knowledge.
+*. . .*
+
+Get a degree in business on top of your engineering degree, law degree, medical degree, science degree, or whatever. Suddenly you’re in charge, or maybe you’re starting your own company using your combined knowledge.
 
 Capitalism rewards things that are both rare and valuable. You make yourself rare by combining two or more “pretty goods” until no one else has your mix...
 
@@ -212,7 +214,7 @@ By merging all updates from all the accounts you followed into a single continuo
 
 It's difficult to overstate what a momentous sea change it was for hundreds of millions, and eventually billions, of humans who had grown up competing for status in small tribes, to suddenly be dropped into a talent show competing against EVERY PERSON THEY HAD EVER MET.
 
-...
+*. . .*
 
 Yet, I come not to bury Caesar, but also not to praise him. Rather, as Emily Wilson says at the start of her brilliant new translation of The Odyssey, “tell me about a complicated man.” So much of the entire internet was built on a foundation of social capital, of intangible incentives like reputation. Before the tech giants of today, I combed through newsgroups, blogs, massive FAQs, and countless other resources built by people who felt, in part, a jolt of dopamine from the recognition that comes from contributing to the world at large. At Amazon, someone coined a term for this type of motivational currency: egoboo (short for, you guessed it, egoboost). Something like Wikipedia, built in large part on egoboo, is a damned miracle. I don’t want to lose that. I don’t think we have to lose that.
 
@@ -264,7 +266,7 @@ His hair greying by the second, the President stooped towards the television, as
 
 In typical fashion, Walter Cronkite concluded his CBS Evening News Broadcasts with his famous closing words: “And that’s the way it is." Speaking with the authority of God, Cronkite’s words laid the ground-truth narrative from which all other discussion followed. A little more than a month after Cronkite’s broadcast, on Sunday, Marsh 31st, Johnson announced he would not seek another term as President. 
 
-...
+*. . .*
 
 Like a coxswain yelling to his team of obedient rowers, leaders controlled the dissemination of information and determined the movement of the entire group. Even as global population skyrocketed from 1.6 billion in 1900 to 6 billion in 2000, media driven cohesion kept the group together. Millions of people moved in near-magical synchronicity. Stroke! Stroke! Stroke! 
 
@@ -293,7 +295,7 @@ Note that this shouldn’t in any way tarnish our appreciation of the dandelion.
 
 In fact, the same can be said for our relationship to flowers more generally. Flowers are playing multiplayer beauty with pollinators, clearly, but why they happen to appeal to us is a fascinating open question.
 
-*...*
+*. . .*
 
 What about sexual selection? Is it driven by Independent or Correlated Desire?
 
@@ -327,7 +329,7 @@ From [Flash Boys](https://www.amazon.com/Flash-Boys-Wall-Street-Revolt/dp/039335
 
 [On HFT firms] "I hate [HFT firms] a lot less than before we started," said Brad. "This is not their fault. I think most of them have just rationalized that the market is creating inefficiencies and they are just capitalizing on them. Really, it's brilliant what they have done within the bounds of the regulation. They are much less of a villain  than I thought. The system has let down the investor."
 
-*...*
+*. . .*
 
 Technology had collided with Wall Street in a peculiar way. It had been used, as it should have been used, to increase efficiency. But it had also been used to introduce a peculiar sort of market inefficiency. This new inefficiency was not like the inefficiencies that financial markets can easily correct. After a big buyer enters the market and drives up the price of Brent crude oil, for example, it’s healthy and good when speculators jump in and drive up the price of North Texas crude, too. It’s healthy and good when traders see the relationship between the price of crude oil and the price of oil company stocks, and drive these stocks higher. It’s even healthy and good when some clever high-frequency trader divines a necessary statistical relationship between the share prices of Chevron and Exxon, and responds when it gets out of whack. It was neither healthy nor good when public stock exchanges introduced order types and speed advantages that high-frequency traders could use to exploit everyone else. This sort of inefficiency didn’t vanish the moment it was spotted and acted upon. It was like a broken slot machine in the casino that pays off every time. It would keep paying off until someone said something about it; but no one who played the slot machine had any interest in pointing out that it was broken.
 
@@ -363,6 +365,6 @@ Arguing semantics are often derided, but it shouldn’t be. Telling someone not 
 
 In other words it’s not pure “ought” as in “we should do this”, because it gets elements of “is” when it tells us to adopt a particular model of reality and its associated vocabulary.
 
-*...* 
+*. . .* 
 
 > An encounter with an ambiguous yet controversial-sounding claim starts with an instinctive emotional reaction. We infer the intentions or agenda behind the claim, interpret it in the way most compatible with our own attitude, and then immediately forget the second step ever happened and confuse the intended meaning with our own interpretation. This is a complicated way of saying that if you feel a statement is part of a rival political narrative you’ll unconsciously interpret it to mean something false or unreasonable, and then think you disagree with people politically because they say false and unreasonable things.
