@@ -368,3 +368,31 @@ In other words it’s not pure “ought” as in “we should do this”, becaus
 *. . .* 
 
 > An encounter with an ambiguous yet controversial-sounding claim starts with an instinctive emotional reaction. We infer the intentions or agenda behind the claim, interpret it in the way most compatible with our own attitude, and then immediately forget the second step ever happened and confuse the intended meaning with our own interpretation. This is a complicated way of saying that if you feel a statement is part of a rival political narrative you’ll unconsciously interpret it to mean something false or unreasonable, and then think you disagree with people politically because they say false and unreasonable things.
+
+## On the signal and corrective
+
+From [The Signal and the Corrective](https://everythingstudies.com/2017/12/19/the-signal-and-the-corrective/)
+
+Most people have somewhat moderate views and they recognize that there is a bit of truth to both of two apparently opposing narratives. This can mask fundamental differences between those appearing to be in agreement.
+
+Like, look at [a] zebra.
+
+We can all agree on what it looks like. But some of us will think of it as a white horse with black stripes and some as a black horse with white stripes, and while it doesn’t actually matter now, that might change if whether “zebras are fundamentally white” or “zebras are fundamentally black” ever becomes an issue of political importance.
+
+In the real world zebras are (thank God) still politically neutral, but similar patterns exist. Two people with political views like:
+
+“The free market is extremely powerful and will work best as a rule, but there are a few outliers where it won’t, and some people will be hurt so we should have a social safety net to contain the bad side effects.”
+
+and
+
+“Capitalism is morally corrupt and rewards selfishness and greed. An economy run for the people by the people is a moral imperative, but planned economies don’t seem to work very well in practice so we need the market to fuel prosperity even if it is distasteful.”
+
+. . . have very different fundamental attitudes but may well come down quite close to each other in terms of supported policies. If you model them as having one “main signal” (basic attitude) paired with a corrective to account for how the basic attitude fails to match reality perfectly, then this kind of difference is understated when the conversation is about specific issues (because then signals plus correctives are compared and the correctives bring “opposite” people closer together) but overstated when the conversation is about general principles — because then it’s only about the signal.
+
+The funny sad thing is that this supports the view that if we saw every issue on its own terms instead of part of a Big Referendum on Which Side is Right About Everything then we would agree more and fight less (which is part of the reason politics gets less terrible as it gets more local).
+
+It also explains the sort of situation (which happens to me a lot) where you switch sides based on who you’re talking to. If you’re with someone with an opposite signal, you prioritize boosting your own signal and ignore your own corrective that actually agrees with the other person. However, when talking to someone who agrees with your signal you may instead start to argue for your corrective. And if you’re in a social environment where everyone shares your signal and nobody ever mentions a corrective you’ll occasionally be tempted to defend something you don’t actually support (but typically you won’t because people will take it the wrong way). My “defense” of the concept “War on Christmas” from last year is an example of that.
+
+The model gives us a new way to characterize zealots or ideologues (they’re people without correctives) and groupthink (that’s when correctives are not allowed). Such people and such environments creep me out.
+
+Finally, it offers a new perspective on the whole Rand lovers vs. Rand haters thing. Capitalist-types are usually the villains in fiction[3], and how the poor are oppressed by the evil rich has been dramatized so many times that the corrective[4] — that entrepreneurship is crucial for building wealth, capital owners fill a very important function, and the wealth of the industrialized world is disproportionally created by those who innovate and build technological systems — will be jarring when it’s for once brought out and given full signal-treatment instead (with the corresponding corrective ignored). It’ll feel perverse (or liberating) the same way “medical treatment hurts people who want to die” does in House of God.
