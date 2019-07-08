@@ -432,8 +432,6 @@ Hindsight will lead us to systematically undervalue the surprisingness of scient
 
 We need to make a conscious effort to be shocked enough.
 
-*. . .*
-
 ## Also on hindsight bias
 
 From [Hindsight Bias](https://www.greaterwrong.com/posts/fkM9XsNvXdYH6PPAx/hindsight-bias)
