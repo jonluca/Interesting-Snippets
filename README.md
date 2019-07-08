@@ -481,3 +481,15 @@ So one must distinguish between levels of confidence internal and external to a 
 From [So Far: Unfriendly AI Edition](http://www.econlib.org/archives/2016/03/so_far_unfriend.html)
 
 When you think a goal criterion implies something you want, you may have failed to see where the real maximum lies. When you try to block one behavior mode, the next result of the search may be another very similar behavior mode that you failed to block. This means that safe practice in this field needs to obey the same kind of mindset as appears in cryptography, of “Don’t roll your own crypto” and “Don’t tell me about the safe systems you’ve designed, tell me what you’ve broken if you want me to respect you” and “Literally anyone can design a code they can’t break themselves, see if other people can break it” and “Nearly all verbal arguments for why you’ll be fine are wrong, try to put it in a sufficiently crisp form that we can talk math about it” and so on. (AI safety mindset)
+
+## On expectations of beliefs and stereotypes
+
+From [Beliefs as Endorsements](https://everythingstudies.com/2018/02/23/beliefs-as-endorsements/)
+
+What do we do when we expect something factually but not morally?
+
+I tend to believe that stereotypes are broadly accurate, in other words that they capture real and significant clusters of traits and behaviors, for the most part. Factually, then, I expect people to conform to stereotypes more than predicted by chance. But morally I don’t. I don’t think people are somehow obligated to conform to stereotypes, nor do I resent them when they don’t (in fact I quite enjoy that, it replenishes my faith in self-determination and individual agency).
+
+Now, if someone asks me whether I believe some stereotypical claim (or asserts with unjustified confidence that to do so must be wrong), what the hell am I supposed to say? Yes I do expect it to be true, on average. No, I wouldn’t consider someone at fault for not conforming to that expectation, nor would I even slightly resist changing it facing contrary evidence.
+
+I know of no way to say this that’s short and simple enough to be quickly understood and resistant to hostile interpretation.
