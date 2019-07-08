@@ -438,7 +438,7 @@ From [The Control Group is Out of Control](https://slatestarcodex.com/2014/04/28
 
 This is the principle behind the Pyramid of Scientific Evidence. The lowest level is your personal opinions, no matter how ironclad you think the logic behind them is. Just above that is expert opinion, because no matter how expert someone is they’re still only human. Above that is anecdotal evidence and case studies, because even though you’re finally getting out of people’s heads, it’s still possible for the content of people’s heads to influence which cases they pay attention to. At each level, we distill away more and more of the human element, until presumably at the top the dross of humanity has been purged away entirely and we end up with pure unadulterated reality.
 
-[!pyramid](https://i0.wp.com/slatestarcodex.com/blog_images/se_pyramid.png?zoom=2&w=700)
+![pyramid](https://i0.wp.com/slatestarcodex.com/blog_images/se_pyramid.png?zoom=2&w=700)
 
 And for a while this went well. People would drop things off towers, or see how quickly gases expanded, or observe chimpanzees, or whatever.
 
