@@ -447,3 +447,18 @@ Then things started getting more complicated. People started investigating more 
 And the result is a lot of essays like this one, where people who think they’re smart take one side of a scientific “controversy” and say which studies you should believe. And then other people take the other side and tell you why you should believe different studies than the first person thought you should believe. And there is much argument and many insults and citing of authorities and interminable debate for, if not centuries, at least a pretty long time.
 
 The highest level of the Pyramid of Scientific Evidence is meta-analysis. But a lot of meta-analyses are crap. This meta-analysis got p < 1.2 * 10^-10 for a conclusion I'm pretty sure is false, and it isn’t even one of the crap ones. Crap meta-analyses look more like this, or even worse.
+
+## On confidence levels and probabilities
+
+From [Confidence levels inside and outside an argument](https://www.lesswrong.com/posts/GrtbTAPfkJa4D6jjH/confidence-levels-inside-and-outside-an-argument)
+
+Suppose the people at FiveThirtyEight have created a model to predict the results of an important election. After crunching poll data, area demographics, and all the usual things one crunches in such a situation, their model returns a greater than 999,999,999 in a billion chance that the incumbent wins the election. Suppose further that the results of this model are your only data and you know nothing else about the election. What is your confidence level that the incumbent wins the election?
+
+Mine would be significantly less than 999,999,999 in a billion.
+
+When an argument gives a probability of 999,999,999 in a billion for an event, then probably the majority of the probability of the event is no longer in "But that still leaves a one in a billion chance, right?". The majority of the probability is in "That argument is flawed". Even if you have no particular reason to believe the argument is flawed, the background chance of an argument being flawed is still greater than one in a billion.
+
+More than one in a billion times a political scientist writes a model, ey will get completely confused and write something with no relation to reality. More than one in a billion times a programmer writes a program to crunch political statistics, there will be a bug that completely invalidates the results. More than one in a billion times a staffer at a website publishes the results of a political calculation online, ey will accidentally switch which candidate goes with which chance of winning.
+
+So one must distinguish between levels of confidence internal and external to a specific model or argument. Here the model's internal level of confidence is 999,999,999/billion. But my external level of confidence should be lower, even if the model is my only evidence, by an amount proportional to my trust in the model.
+
