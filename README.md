@@ -399,7 +399,7 @@ Finally, it offers a new perspective on the whole Rand lovers vs. Rand haters th
 
 ## On hindsight bias
 
-Fro [Hindsight Devalues Science](https://www.readthesequences.com/Hindsight-Devalues-Science)
+From [Hindsight Devalues Science](https://www.readthesequences.com/Hindsight-Devalues-Science)
 
 Cullen Murphy, editor of The Atlantic, said that the social sciences turn up “no ideas or conclusions that can’t be found in [any] encyclopedia of quotations… Day after day social scientists go out into the world. Day after day they discover that people’s behavior is pretty much what you’d expect.”
 
@@ -431,3 +431,19 @@ Which leads people to think they have no need for science, because they “could
 Hindsight will lead us to systematically undervalue the surprisingness of scientific findings, especially the discoveries we understand—the ones that seem real to us, the ones we can retrofit into our models of the world. If you understand neurology or physics and read news in that topic, then you probably underestimate the surprisingness of findings in those fields too. This unfairly devalues the contribution of the researchers; and worse, will prevent you from noticing when you are seeing evidence that doesn’t fit what you really would have expected.
 
 We need to make a conscious effort to be shocked enough.
+
+## On the advancement of scientific theories, especially as it relates to subtle meta analysis
+
+From [The Control Group is Out of Control](https://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/)
+
+This is the principle behind the Pyramid of Scientific Evidence. The lowest level is your personal opinions, no matter how ironclad you think the logic behind them is. Just above that is expert opinion, because no matter how expert someone is they’re still only human. Above that is anecdotal evidence and case studies, because even though you’re finally getting out of people’s heads, it’s still possible for the content of people’s heads to influence which cases they pay attention to. At each level, we distill away more and more of the human element, until presumably at the top the dross of humanity has been purged away entirely and we end up with pure unadulterated reality.
+
+[!pyramid](https://i0.wp.com/slatestarcodex.com/blog_images/se_pyramid.png?zoom=2&w=700)
+
+And for a while this went well. People would drop things off towers, or see how quickly gases expanded, or observe chimpanzees, or whatever.
+
+Then things started getting more complicated. People started investigating more subtle effects, or effects that shifted with the observer. The scientific community became bigger, everyone didn’t know everyone anymore, you needed more journals to find out what other people had done. Statistics became more complicated, allowing the study of noisier data but also bringing more peril. And a lot of science done by smart and honest people ended up being wrong, and we needed to figure out exactly which science that was.
+
+And the result is a lot of essays like this one, where people who think they’re smart take one side of a scientific “controversy” and say which studies you should believe. And then other people take the other side and tell you why you should believe different studies than the first person thought you should believe. And there is much argument and many insults and citing of authorities and interminable debate for, if not centuries, at least a pretty long time.
+
+The highest level of the Pyramid of Scientific Evidence is meta-analysis. But a lot of meta-analyses are crap. This meta-analysis got p < 1.2 * 10^-10 for a conclusion I'm pretty sure is false, and it isn’t even one of the crap ones. Crap meta-analyses look more like this, or even worse.
