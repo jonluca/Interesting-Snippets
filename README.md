@@ -462,3 +462,8 @@ More than one in a billion times a political scientist writes a model, ey will g
 
 So one must distinguish between levels of confidence internal and external to a specific model or argument. Here the model's internal level of confidence is 999,999,999/billion. But my external level of confidence should be lower, even if the model is my only evidence, by an amount proportional to my trust in the model.
 
+## On AI safety 
+
+From [So Far: Unfriendly AI Edition](http://www.econlib.org/archives/2016/03/so_far_unfriend.html)
+
+When you think a goal criterion implies something you want, you may have failed to see where the real maximum lies. When you try to block one behavior mode, the next result of the search may be another very similar behavior mode that you failed to block. This means that safe practice in this field needs to obey the same kind of mindset as appears in cryptography, of “Don’t roll your own crypto” and “Don’t tell me about the safe systems you’ve designed, tell me what you’ve broken if you want me to respect you” and “Literally anyone can design a code they can’t break themselves, see if other people can break it” and “Nearly all verbal arguments for why you’ll be fine are wrong, try to put it in a sufficiently crisp form that we can talk math about it” and so on. (AI safety mindset)
