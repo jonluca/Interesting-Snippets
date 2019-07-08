@@ -442,6 +442,12 @@ Viewing history through the lens of hindsight, we vastly underestimate the cost 
 
 Shortly after September 11th 2001, I thought to myself, and now someone will turn up minor intelligence warnings of something-or-other, and then the hindsight will begin. Yes, I’m sure they had some minor warnings of an al Qaeda plot, but they probably also had minor warnings of mafia activity, nuclear material for sale, and an invasion from Mars.
 
+Because we don’t see the cost of a general policy, we learn overly specific lessons. After September 11th, the FAA prohibited box-cutters on airplanes—as if the problem had been the failure to take this particular “obvious” precaution. We don’t learn the general lesson: the cost of effective caution is very high because you must attend to problems that are not as obvious now as past problems seem in hindsight.
+
+The test of a model is how much probability it assigns to the observed outcome. Hindsight bias systematically distorts this test; we think our model assigned much more probability than it actually did. Instructing the jury doesn’t help. You have to write down your predictions in advance. Or as Fischhoff (1982) put it:
+
+When we attempt to understand past events, we implicitly test the hypotheses or rules we use both to interpret and to anticipate the world around us. If, in hindsight, we systematically underestimate the surprises that the past held and holds for us, we are subjecting those hypotheses to inordinately weak tests and, presumably, finding little reason to change them.
+
 ## On the advancement of scientific theories, especially as it relates to subtle meta analysis
 
 From [The Control Group is Out of Control](https://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/)
