@@ -387,7 +387,7 @@ and
 
 “Capitalism is morally corrupt and rewards selfishness and greed. An economy run for the people by the people is a moral imperative, but planned economies don’t seem to work very well in practice so we need the market to fuel prosperity even if it is distasteful.”
 
-. . . have very different fundamental attitudes but may well come down quite close to each other in terms of supported policies. If you model them as having one “main signal” (basic attitude) paired with a corrective to account for how the basic attitude fails to match reality perfectly, then this kind of difference is understated when the conversation is about specific issues (because then signals plus correctives are compared and the correctives bring “opposite” people closer together) but overstated when the conversation is about general principles — because then it’s only about the signal.
+*. . .* have very different fundamental attitudes but may well come down quite close to each other in terms of supported policies. If you model them as having one “main signal” (basic attitude) paired with a corrective to account for how the basic attitude fails to match reality perfectly, then this kind of difference is understated when the conversation is about specific issues (because then signals plus correctives are compared and the correctives bring “opposite” people closer together) but overstated when the conversation is about general principles — because then it’s only about the signal.
 
 The funny sad thing is that this supports the view that if we saw every issue on its own terms instead of part of a Big Referendum on Which Side is Right About Everything then we would agree more and fight less (which is part of the reason politics gets less terrible as it gets more local).
 
@@ -414,7 +414,7 @@ Southern Blacks preferred Southern to Northern White officers. (Southern officer
 As long as the fighting continued, soldiers were more eager to return home than after the war ended. (During the fighting, soldiers knew they were in mortal danger.)
 How many of these findings do you think you could have predicted in advance? Three out of five? Four out of five? Are there any cases where you would have predicted the opposite—where your model takes a hit? Take a moment to think before continuing…
 
-...
+*. . .*
 
 In this demonstration (from Paul Lazarsfeld by way of Meyers), all of the findings above are the opposite of what was actually found. How many times did you think your model took a hit? How many times did you admit you would have been wrong? That’s how good your model really was. The measure of your strength as a rationalist is your ability to be more confused by fiction than by reality.
 
@@ -431,6 +431,16 @@ Which leads people to think they have no need for science, because they “could
 Hindsight will lead us to systematically undervalue the surprisingness of scientific findings, especially the discoveries we understand—the ones that seem real to us, the ones we can retrofit into our models of the world. If you understand neurology or physics and read news in that topic, then you probably underestimate the surprisingness of findings in those fields too. This unfairly devalues the contribution of the researchers; and worse, will prevent you from noticing when you are seeing evidence that doesn’t fit what you really would have expected.
 
 We need to make a conscious effort to be shocked enough.
+
+*. . .*
+
+## Also on hindsight bias
+
+From [Hindsight Bias](https://www.greaterwrong.com/posts/fkM9XsNvXdYH6PPAx/hindsight-bias)
+
+Viewing history through the lens of hindsight, we vastly underestimate the cost of effective safety precautions. In 1986, the Challenger exploded for reasons traced to an O-ring losing flexibility at low temperature. There were warning signs of a problem with the O-rings. But preventing the Challenger disaster would have required, not attending to the problem with the O-rings, but attending to every warning sign which seemed as severe as the O-ring problem, without benefit of hindsight. It could have been done, but it would have required a general policy much more expensive than just fixing the O-Rings.
+
+Shortly after September 11th 2001, I thought to myself, and now someone will turn up minor intelligence warnings of something-or-other, and then the hindsight will begin. Yes, I’m sure they had some minor warnings of an al Qaeda plot, but they probably also had minor warnings of mafia activity, nuclear material for sale, and an invasion from Mars.
 
 ## On the advancement of scientific theories, especially as it relates to subtle meta analysis
 
