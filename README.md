@@ -493,3 +493,13 @@ I tend to believe that stereotypes are broadly accurate, in other words that the
 Now, if someone asks me whether I believe some stereotypical claim (or asserts with unjustified confidence that to do so must be wrong), what the hell am I supposed to say? Yes I do expect it to be true, on average. No, I wouldn’t consider someone at fault for not conforming to that expectation, nor would I even slightly resist changing it facing contrary evidence.
 
 I know of no way to say this that’s short and simple enough to be quickly understood and resistant to hostile interpretation.
+
+## On Attention
+
+From [The Attention Merchants](https://www.amazon.com/Attention-Merchants-Scramble-Inside-Heads/dp/0385352018) by Tim Wu
+
+The Nazi regime's extreme, coercive demands on attention oblige us to consider the relationship between control over one's attention and human freedom. Take the most elementary type of freedom, the freedom to choose between choices A and B, say chocolate or vanilla.
+
+The most direct and obvious way authoritarians abridge freedom is to limit or discourage or ban outright certain options — NO CHOCOLATE, for instance. The State might ban alcohol, for example, as the United States once did and a number of Muslim nations still do; likewise it might outlaw certain political parties or bar certain individuals from seeking office. But such methods are blunt and intrusive, as well as imperfect, which is true of any restriction requiring enforcement. It is therefore more effective for the State to intervene before options are seen to exist. This creates less friction with the State but requires a larger effort: total attention control.
+
+Freedom might be said to describe not only the size of our "option set" but also our awareness of what options there are. That awareness has two degrees. One is conceptual: if you don't know about a thing, like chocolate ice cream, you can hardly ask for it, much less feel oppressed by the want of it. The second degree of awareness comes after we know about things conceptually and can begin to contemplate them as real choices. I may be aware that man has gone into space but the idea that I might choose to go there myself, while conceivable is only a notion until I find out that Virgin Galactic has started scheduling flights.
