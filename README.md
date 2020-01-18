@@ -539,3 +539,12 @@ What is true for fraud and insider trading is also true for most other accusatio
 From [Adaptive Markets](https://www.amazon.com/Adaptive-Markets-Financial-Evolution-Thought/dp/0691135142) 
 
 Like the characters in *Rashomon*, we have to recognize the possibility that complex truths are often in the eye of the beholder. This is a simple fact of human cognition; we've evolved to create narratives to suit our particular needs and desires (recall the left brain's ability to generate narratives). One shouldn't infer from this fact that relativism is correct or desirable. Not all truths are equally valid. However, the particular narrative that one adopts can color and influence the subsequent course of inquiry and debate. We should strive to entertain as many interpretations of the same set of objective facts as we can and hope that a more nuanced and internally consistent understanding of the crisis emergenes in the fullness of time. Some narratives are mistaken, incorrect, or deliberately untrue. Where facts can be verified or refuted, we should do so expeditiously and relentlessly. 
+
+
+## On Coincedences
+
+From [Ribbonfarm](https://www.ribbonfarm.com/2015/06/04/puzzle-theory/)
+
+In “From mere coincidences to meaningful discoveries,” Thomas Griffiths and Joshua Tenenbaum argue that while the perception of coincidence is often epistemic error, the same phenomenon underlies our ability to understand the world at all. Coincidences, they say, “are not just unlikely events, but rather events that are less likely under our currently favored theory of how the world works than under an alternative theory.” They are an invitation to possibly change beliefs – the perception of a pattern in causal space whose existence had not been suspected before. A “mere coincidence” provides very weak evidence or supports a theory that is very unlikely according to evidence other than the coincidence. A new theory will not be adopted based on a “mere coincidence.” A “suspicious coincidence,” however, provides somewhat stronger evidence, or supports a more plausible hypothesis. The old, pre-existing theory and the new theory are rendered about equally likely by a “suspicious coincidence.” And when a new theory is very plausible, or when the event supplies very strong evidence for it, it is not called a coincidence at all, but rather “evidence.” The continuum is illustrated in a beautiful graphical and mathematical compression:
+
+[!image](https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2015/06/image3.jpg)
