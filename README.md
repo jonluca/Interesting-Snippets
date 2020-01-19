@@ -2,6 +2,8 @@
 
 A collection of short snippets that I found interesting. I do not necessarily agree with the views - they simply succintly and clearly say what I believe to be an interesting topic or insight. 
 
+Note: This repo is no longer maintained. [It has been moved to my blog.](https://blog.jonlu.ca/interesting-snippets)
+
 ## On Altruism 
 
 From [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/altruism/#DesiMoti):
